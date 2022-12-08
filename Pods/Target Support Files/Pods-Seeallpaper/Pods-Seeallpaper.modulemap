@@ -1,6 +1,0 @@
-framework module Pods_Seeallpaper {
-  umbrella header "Pods-Seeallpaper-umbrella.h"
-
-  export *
-  module * { export * }
-}
